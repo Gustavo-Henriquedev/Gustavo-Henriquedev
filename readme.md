@@ -1,5 +1,8 @@
 ## Hello, there ✌
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff80&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gustavo+Henrique;+Sou+desenvolvedor+fullstack;+https://Gustavo-Henrique.com.br/;+Sou+desenvolvedor+de+software;)](https://git.io/typing-svg)
+
+
 ### Here's some of the stuff I like to use
 
 In the front-end
