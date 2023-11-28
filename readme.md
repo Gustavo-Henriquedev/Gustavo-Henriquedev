@@ -19,5 +19,5 @@ In the back-end:
 
 
 
-#### Contato &#x2709;
+#### Contacts &#x2709;
   <a href="https://www.linkedin.com/in/gustavo-henrique-b4b9622a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
